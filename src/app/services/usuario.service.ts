@@ -60,7 +60,7 @@ export class UsuarioService {
           client_id: '226032303992-ep1k6hqau01rira1mdgnipvuvp4mc6u6.apps.googleusercontent.com',
           cookiepolicy: 'single_host_origin',
         });
-        resolve();
+
       });
     })
 
