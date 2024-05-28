@@ -2,5 +2,5 @@
 
 export const environment = {
   production: true,
-  base_url: 'https://back-hospital-nd0m.onrender.com'
+  base_url: 'https://back-hospital-jjq7.onrender.com'
 };
